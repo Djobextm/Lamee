@@ -1,7 +1,7 @@
 {
-  "minVersionCode": 11,
-  "latestVersionCode": 11,
-  "latestVersionName": "0.11",
+  "minVersionCode": 1,
+  "latestVersionCode": 1,
+  "latestVersionName": "0.1",
   "apkUrl": "https://github.com/Djobextm/Lamee/releases/download/releases/latest",
   "changelog": "Исправлены ошибки SoundCloud и улучшена производительность."
 }
