@@ -1,5 +1,14 @@
 {
   "tracks": [
-    { "artist": "PHARAOH", "title": "Black Siemens", "source": "SoundCloud" }
+    {
+      "artist": "PHARAOH",
+      "title": "Black Siemens",
+      "source": "SoundCloud"
+    },
+    {
+      "artist": "madk1d",
+      "title": "засосы",
+      "source": "SoundCloud"
+    }
   ]
 }
