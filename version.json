@@ -3,5 +3,5 @@
   "latestVersionCode": 4,
   "latestVersionName": "0.4",
   "apkUrl": "https://github.com/Djobextm/Lamee/releases/download/Release/app-release.apk",
-  "changelog": "Добавлена функция антицензурные списков"
+  "changelog": "Фикс антицензурных списков,добавлена функция смены акцентного цвета.Для того чтоб сменить цвет зажмите иконку телеграмма на главном экране"
 }
